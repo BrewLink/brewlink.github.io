@@ -19,6 +19,31 @@ I hope to share some of my projects here. For now it's under construction....
 #### Powered by Coral Dev Board: 
 ![coral](https://user-images.githubusercontent.com/61064338/154891138-39fd60a7-b3f1-4150-afba-26f1a7002c27.jpg)
 
+
+### FPGAs
+
+#### Xilinx Based: 
+##### Haptic type tutor (HTT)
+
+
+##### Features: 
+    Font Engine (FPGA Level)
+    RISCV on FPGA
+    Integetered Firmware, Verilog Hardware Modules, RISCV and VGA Driver
+    
+<p align="center">
+<img width="460" height="300" src="https://user-images.githubusercontent.com/61064338/143980873-1fd7b799-cb7f-47d3-bde5-b65fba3bf000.png">	
+</p>
+<p align="center">
+<img width="460" height="300" src="https://user-images.githubusercontent.com/61064338/143856708-8104807f-b409-41b8-b538-21fb8381f991.gif">	
+</p>
+<p align="center">
+<img width="460" height="300" src="https://user-images.githubusercontent.com/61064338/142844462-5249e899-db6a-479e-901c-fc72719df6c7.gif">	
+</p>
+
+
+
+
 ### App Development
 
 #### Android Based
