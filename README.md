@@ -10,14 +10,31 @@ I hope to share some of my projects here. For now it's under construction....
 ![Screen Shot 2022-02-20 at 6 28 58 AM](https://user-images.githubusercontent.com/61064338/154847613-a3018e6b-a6ca-4055-bfcb-b52ed6d7937a.png)
 
 
-
 #### Rapid evolution of snappy: 
 ![Screen Shot 2022-02-20 at 6 31 41 AM](https://user-images.githubusercontent.com/61064338/154847704-e04aa51b-bde9-4511-9b5b-3db01dba7326.png)
 
 
-
 #### Powered by Coral Dev Board: 
 ![coral](https://user-images.githubusercontent.com/61064338/154891138-39fd60a7-b3f1-4150-afba-26f1a7002c27.jpg)
+
+
+
+### App Development
+
+#### Android Based
+#### Toi - an MQTT based IoT 
+![IMG_0903](https://user-images.githubusercontent.com/61064338/155912089-b34545bd-55f6-4f46-b535-0fb172a299d5.jpg)
+
+
+#### MusicBuddy - Enhanced Music Player
+
+
+
+![158488397-81f92048-b3a9-4a01-a4ba-8eb6f9f4f857](https://user-images.githubusercontent.com/61064338/162128036-31aeec88-cbfb-4804-9996-52be4f9d350c.jpg)
+
+
+
+## iOS Based
 
 
 ### FPGAs
@@ -43,14 +60,3 @@ I hope to share some of my projects here. For now it's under construction....
 
 
 
-
-### App Development
-
-#### Android Based
-#### Toi - an MQTT based IoT 
-![IMG_0903](https://user-images.githubusercontent.com/61064338/155912089-b34545bd-55f6-4f46-b535-0fb172a299d5.jpg)
-
-
-
-
-## iOS Based
