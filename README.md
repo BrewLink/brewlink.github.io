@@ -1,6 +1,6 @@
 # Welcome to my github pages
 
-I'm an embedded software engineer with passion for cool technologies. 
+I'm an embedded software engineer with passion for unique technologies. 
 I hope to share some of my projects here. For now it's under construction.... 
 
 ## Projects
