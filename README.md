@@ -34,7 +34,7 @@ I hope to share some of my projects here. For now it's under construction....
 
 
 
-## iOS Based
+#### iOS Based
 
 
 ### FPGAs
@@ -57,6 +57,14 @@ I hope to share some of my projects here. For now it's under construction....
 <p align="center">
 <img width="460" height="300" src="https://user-images.githubusercontent.com/61064338/142844462-5249e899-db6a-479e-901c-fc72719df6c7.gif">	
 </p>
+
+
+### Computer Sound Related Projects:
+                                    - Sound Player - PA library wrapper in C
+                                    - Sound Filter - Basic filter in C
+                                    - Sound tuner  - FFTW based freq analyser
+
+
 
 
 
