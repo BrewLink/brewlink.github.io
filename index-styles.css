@@ -1,0 +1,28 @@
+
+.img-thumbnail{
+    display: block;
+    margin-top: 22px;
+    border-radius: 1%;
+    text-align: right;
+    float: right;
+    height: auto;
+
+}
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+
+.footer-copyright{
+    position: center;
+    font-size: 4px;
+    text-align: center;
+    margin: auto;
+    padding-top: 10px;
+}
+
+.projcet_a
+{
+    text-decoration:none;
+}
+
